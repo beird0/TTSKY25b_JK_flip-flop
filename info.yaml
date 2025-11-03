@@ -27,13 +27,13 @@ pinout:
 
   # Outputs
   uo[0]: "0  gate delay"
-  uo[1]: "4  gate delay"
-  uo[2]: "8  gate delay"
-  uo[3]: "16 gate delay"
-  uo[4]: "32 gate delay"
-  uo[5]: "64 gate delay"
-  uo[6]: ""
-  uo[7]: ""
+  uo[1]: "1  gate delay"
+  uo[2]: "2  gate delay"
+  uo[3]: "4  gate delay"
+  uo[4]: "8  gate delay"
+  uo[5]: "16 gate delay"
+  uo[6]: "32 gate delay"
+  uo[7]: "64 gate delay"
 
   # Bidirectional pins
   uio[0]: ""
