@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-A series of AND gates are used to delay a sigbal between the IN0 and the outputs.
+J K Flip-Flop
 
 ## How to test
 
-Starting at OUT0 the draly is 4 gates, 8 gates, 16 gates, 32 and 64 gates respectivley.
+The flip-flop's clock is not the syatem clock.
 
 ## External hardware
 
-Monitor signals OUT0 thru OUT5 with an oscilascope to measure delay.
+Normal flip-flop behavior may be obderved.
